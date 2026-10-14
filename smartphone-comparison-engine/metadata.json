@@ -1,0 +1,6 @@
+{
+  "name": "Smartphone Comparison Engine",
+  "description": "An Arabic AI-powered smartphone comparison platform to evaluate specifications and read expert reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

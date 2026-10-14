@@ -1,1 +1,0 @@
-ALTER TABLE `searchEvents` ADD `resultCount` int DEFAULT 0 NOT NULL;

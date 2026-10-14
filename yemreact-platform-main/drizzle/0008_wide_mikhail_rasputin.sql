@@ -1,2 +1,0 @@
-ALTER TABLE `contributions` ADD `rejectionIdempotencyKey` varchar(96);--> statement-breakpoint
-ALTER TABLE `contributions` ADD CONSTRAINT `contributions_rejectionIdempotencyKey_unique` UNIQUE(`rejectionIdempotencyKey`);
